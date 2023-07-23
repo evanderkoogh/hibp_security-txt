@@ -1,0 +1,5 @@
+Contact: https://hackerone.com/tesco/reports/new
+Preferred-Languages: en
+Policy: https://hackerone.com/tesco
+Acknowledgments: https://hackerone.com/tesco/thanks
+Hiring: https://www.tesco-careers.com/

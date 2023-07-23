@@ -1,0 +1,6 @@
+Contact: mailto:security@hurb.com
+Encryption: https://www.hurb.com/pgp-key.txt
+Acknowledgments: https://www.hurb.com/sec-thanks.txt
+Preferred-Languages: pt,en
+Canonical: https://www.hurb.com/.well-known/security.txt
+Hiring: https://hurb.gupy.io/

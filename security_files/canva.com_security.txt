@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: https://bugcrowd.com/canva
+Contact: https://www.canva.com/help/describe-your-issue
+Acknowledgments: https://bugcrowd.com/canva/hall-of-fame
+Preferred-Languages: en
+Canonical: https://canva.com/.well-known/security.txt
+Policy: https://bugcrowd.com/canva
+Hiring: https://www.canva.com/careers/jobs/?specialty=security
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEOoYDsfL2oERmHDXNPmf9EggfVL0FAl//+ScACgkQPmf9Eggf
+VL36wwf7BYKdi05t2Vu037RKYbb6NwQXcuENUvycQJlleggXinVMYpLGXeovlz20
+SjZ/c876GbnJPgH9oXzSHvz56ie6Z5dVYgyGTNC3+WbD4M5NtLNN82KKGjJgfEOw
+A/Os/LBGKHKGbELRI6Yo+WG0uE2CPZvaWJNF0k1K5Gj6MTQZSrJHl/doOLUo+Ow3
+W1Kqbe+0b7CXv27p8XgQj7a8/f3ljY3l15HVYx/CoJhjpWMAvhPumKNx4sWh2Z2+
+0CYCYXzN9+5nKCmOH+oy/h+BhX2l49OhYFf2tBpY1eR5M9JFo3wWtYzTTQifD240
+F31xlMfMmquZOgf70oXGViQpnEhm2w==
+=I39F
+-----END PGP SIGNATURE-----

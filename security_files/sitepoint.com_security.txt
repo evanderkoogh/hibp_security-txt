@@ -1,0 +1,7 @@
+# While reports are appreciated, please understand that we currently
+# do not have a bug bounty or rewards program, and do not offer
+# financial rewards.
+Contact: mailto:security@sitepoint.com
+Expires: 2023-08-01T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://www.sitepoint.com/.well-known/security.txt

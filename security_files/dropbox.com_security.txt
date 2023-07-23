@@ -1,0 +1,6 @@
+# Dropbox uses Bugcrowd for responsible disclosure.
+# Please report abusive content (including malware, spam, etc) to abuse@dropbox.com.
+Contact: https://bugcrowd.com/dropbox/
+Acknowledgements: https://bugcrowd.com/dropbox/hall-of-fame
+Policy: https://bugcrowd.com/dropbox/
+Hiring: https://www.dropbox.com/jobs/search?q=security

@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: https://hackerone.com/adobe
+Contact: mailto:psirt@adobe.com
+
+Expires: 2023-07-27T01:00:00.000Z
+
+Encryption: https://helpx.adobe.com/security.html/security/key.ug.html
+
+Acknowledgments: https://helpx.adobe.com/security.html
+
+Preferred-Languages: en, ro, hi
+
+Canonical: https://www.adobe.com/.well-known/security.txt
+
+Policy: https://helpx.adobe.com/security.html/security/policy.ug.html
+
+Hiring: https://www.adobe.com/careers.html
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEqvs1Pw7pNc/gvcvRX9Oj3XV3pEYFAmEBhSgACgkQX9Oj3XV3
+pEZ3nA//WS5i8rOFrz7R9OwT/tjtkGVhzNq1m/FLteWpqK6YLUCgrtgNhu5XMbGA
+agNY/yBiZRtoQX7ojraS8q6gUbhQaHMmhFjUBmTp6ekKs38Vj+a0aDam+CnJWmxP
+MuuBelsP2KDYa80JmdX01ugtFYXq+exJFpJ+C/XQD7+p93FdFJFu837NEblL0X1h
+r5XObd/R+Sh8OGSNOq/D5322RJ2ZhFjFgQBnR9CkoVgFzBHLnUoPbUsgzYsEUlM0
+2mvjNVjiCVN2qw5/Pz3ospExXfac3m8UlM+vBRWV+jviuP354d2iDLk/CKTA4Mfg
++n6/xPNaIXd5aWzkgbunfPutpkLLgAuI+Zg1ILDxInfehkfNzk9gF5/tyGOnwmT/
+6yMWW5VOueJ8n6D5igLAQbqV7598zb4MsvIfyW0s5LXhnMvu0Z1pUkDSLpQntAX1
+ruKgxHgjKYBBkk3+Anoskx0ZBKGnzJeHlzIkdAzw5zIdU+tgl/fVLDeL3A+Wl0hG
+5YVzEhJkyVNbZHoAZvxjCn0/wp7NSuSfHpnKQfiNPy3ZKAPBdRujQT83KzSKLLDN
+ccgO+bn+UP5YEBqFqu/wwOSRVUSnRs/ITZFgdvFCQ2F6tU1VoXMCiiB7Y1cY4U+X
+ZxEcxYAGWEGXeV4sFZkubhxP0dOKJE03KDF8WSUxmo4cdxgiYAE=
+=L2Lq
+-----END PGP SIGNATURE-----

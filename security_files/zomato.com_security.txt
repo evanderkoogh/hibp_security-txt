@@ -1,0 +1,11 @@
+#   _____                     _
+#  |__  /___  _ __ ___   __ _| |_ ___
+#    / // _ \| '_ ` _ \ / _` | __/ _ \
+#   / /| (_) | | | | | | (_| | || (_) |
+#  /____\___/|_| |_| |_|\__,_|\__\___/ 
+#  SECURITY
+#
+Contact: mailto:security@zomato.com
+Acknowledgements: https://hackerone.com/zomato/thanks
+Policy: https://hackerone.com/zomato?view_policy=true
+Hiring: mailto:security@zomato.com

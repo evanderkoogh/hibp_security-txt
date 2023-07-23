@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+#          .:^~!77777!~^:   .^!?Y55555Y?!^.
+#       .^7?JJJJJJJJJJJJ???YGBBBBBBBBBBBBBGY!.
+#     .!?JJJJJJJJJJJJJ?JPBBBBBBBBBBBBBBBBBBBBGJ:
+#    ~?JJJJJJJJJJJJJJJ5BBGGPPPGGGBBBBBBBBBBBBBBG7
+#   !JJJJJJJJJJJJJJJJPGPPPGGPP55555PGBBBBBBBBBBBBJ            ____             __  ___                _
+#  ~JJJJJJJJJJJJJJJ?5GGBBBBBBBBGP55555GBBBBBBBBBBB7          / __ \____  _____/  |/  /___  __________(_)____
+# :?JJJJJJJJJJJJJJ?JGBBBBBBBBBBBBG55555PBBBBBBBBBBG:        / / / / __ \/ ___/ /|_/ / __ \/ ___/ ___/ / ___/
+# ~JJJJJJJJJJJJJJJ?5BBBBBBBBBBBBBB5555555BBBBBBBBBB7       / /_/ / /_/ / /__/ /  / / /_/ / /  / /  / (__  )
+# 7JJJJJJJJJJJJJJJ?YBBBBBBBBBBBBBB5555555PBBBBBBBBBJ      /_____/\____/\___/_/  /_/\____/_/ _/_/  /_/____/
+# 7J?JJJJJJJJJJJJJJ?5BBBBBBBBBBBBP55555555GBBBBBBBB7            / ___/___  _______  _______(_) /___  __
+# ^5YJ?JJJJJJJJJJJJJ?YPGBBBBBBGP5555555555PBBBBBBBG:            \__ \/ _ \/ ___/ / / / ___/ / __/ / / /
+#  755YJ??JJJJJJJJJJJ??JJYYYYJJY5555555555PBBBBBBB?            ___/ /  __/ /__/ /_/ / /  / / /_/ /_/ /
+#   ?555YJJ??JJJJJJJJJJJ????JY555555555555PBBBBBBY            /____/\___/\___/\__,_/_/  /_/\__/\__, /
+#   .?55555YYJJJJJ???JJJJJY555555555555555GBBBBBJ                                             /____/
+#     !555555555YYYYYYY555555555555555555PBBBBB7
+#      ^J5555555555555555555555555555555PBBBB5^
+#        ~Y5555555555555555555555555555PBBBP!
+#         .~J5555555555555555555555555PBBP!
+#            ^?555555555555555555555PBGY~
+#              :!J5555555555555555PG57:
+#                 :~?Y55555555555J!:
+#                    .:~7?JJJ7~:.
+
+Contact: mailto:security@promofarma.com
+Contact: https://keybase.io/docmorris
+Preferred-Languages: en, es
+Encryption: https://keybase.io/docmorris/pgp_keys.asc
+Canonical: https://www.promofarma.com/.well-known/security.txt
+Expires: 2023-05-04T23:59:59.000Z
+-----BEGIN PGP SIGNATURE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+wsFcBAABCgAGBQJilMWQAAoJEG0i+IuGC9xcNmAQAKNx2YF/IUCbk7WOKHZjMYzw
+AzCbb8xGB3uODsb3m3In287lWJ+7yPMzbfwkNZyBEY1htgZTzBmmxvWfkFPcJoR5
+g53Io7ccIWcNlk0nzoi0sP8N5R6h02p9AaInFQND3ci5Mbw2X5jNMvd5gVZkTIms
+XfxVYNMvm0kGFGcaTKlCo6MUkND0bA41KtrxWGBLWqMFyUeL9zsL08SV3b3rXflB
+aJe8fQvmyq5k4QiTajPgSyRePtHkwkKRSixXLqheP/A8uYni31X1WfHXLnSGOxmm
+1/KurEfYF+jYl63gTUIgEPB+o3pstqsOuOoN1AVhwnWnW+AeQ8XXYdqLYkSq/jGY
+VPvE6GqmtyMjSoobAeXJyhzoijxKdq7WDm2dPykJaAfvvgHa6eAI7S/DbZh6kmvh
+RPB9Xr+MUSoFLI+8cqxbYMA07f2qyE2Alfre9AyBwS4NdoUx0F9AoeWGIsSbi3o8
+WVmKcgNeH2+yVVdNFPR3sEP55nXstTDKcaWMZkGbWBXVM9IdQ6lGFg3dQGL9wMqJ
+ZxV1doH9brESysscI5Z/WPpbfqn+BRWc1xMKIdH7F//1HqxUBxC3QnrR3cgttSrm
+4HZJGTmCI0Ki87Ly8Peb4QFdnKA97HqnLoYfi91czrGjWmc0SCD8tFCvYxzdmUKu
+FfaJIh0B4m5wpOog0e5t
+=Y8PH
+-----END PGP SIGNATURE-----

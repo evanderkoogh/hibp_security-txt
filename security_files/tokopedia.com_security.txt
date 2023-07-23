@@ -1,0 +1,7 @@
+Contact: https://bounty.tokopedia.net/
+Preferred-Languages: en, id
+Canonical: https://www.tokopedia.com/.well-known/security.txt
+Policy: https://bounty.tokopedia.net/rules
+Acknowledgments: https://bounty.tokopedia.net/wall-of-fame
+Hiring: https://www.tokopedia.com/careers/
+Expires: 2022-01-01T00:00:00.000Z

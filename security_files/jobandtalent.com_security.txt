@@ -1,0 +1,4 @@
+Contact: mailto:security-team@jobandtalent.com
+Expires: 2030-12-31T22:59:00.000Z
+Encryption: https://landings.jobandtalent.com/.well-known/public.gpg
+Preferred-Languages: en, es
